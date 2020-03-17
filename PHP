@@ -1,0 +1,8 @@
+LES BASES DU PHP :
+
+Voici quelques site Web pour vous permettre d'apprendre les bases du PHP .
+
+. https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql 
+. https://www.grafikart.fr/tutoriels/php 
+
+---------------------- 17/03/2020 
